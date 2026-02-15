@@ -411,9 +411,9 @@
 [콘텐츠 구조 가이드 : 슬라이드 매핑]
 ※ 제공된 소스를 바탕으로 아래 구조에 맞춰 정확히 [N]장의 슬라이드를 작성할 것.
 
-- Slide 1: [제목/주제] — [들어갈 핵심 키워드 및 메시지]
-- Slide 2: [제목/주제] — [들어갈 핵심 키워드 및 메시지]
-- Slide 3: [제목/주제] — [들어갈 핵심 키워드 및 메시지]
+- Slide 1: [제목/주제] — [들어갈 핵심 키워드, 구체적 데이터(수치), 핵심 메시지]
+- Slide 2: [제목/주제] — [들어갈 핵심 키워드, 구체적 데이터(수치), 핵심 메시지]
+- Slide 3: [제목/주제] — [들어갈 핵심 키워드, 구체적 데이터(수치), 핵심 메시지]
 ... (지정된 장수만큼 구체적 목차 전개)
 
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -456,9 +456,9 @@
 [Content Structure Guide : Slide Mapping]
 ※ Based on the provided source, create exactly [N] slides following this structure.
 
-- Slide 1: [Title/Topic] — [Core keywords and message]
-- Slide 2: [Title/Topic] — [Core keywords and message]
-- Slide 3: [Title/Topic] — [Core keywords and message]
+- Slide 1: [Title/Topic] — [Core keywords, specific data/numbers, and message]
+- Slide 2: [Title/Topic] — [Core keywords, specific data/numbers, and message]
+- Slide 3: [Title/Topic] — [Core keywords, specific data/numbers, and message]
 ... (specific outline for each slide)
 
 ━━━━━━━━━━━━━━━━━━━━━━
